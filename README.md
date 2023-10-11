@@ -1,5 +1,4 @@
-# employee-statistics
-You can download the dataset from my Github repository: https://rodrickmascarenhas.github.io/employee-statistics
+## Employee Statistics
 
 The dataset stores the employee attributes with some earning more than 50K while others less than 50K annually. Attributes of the employee known to us are as follows: 
 
